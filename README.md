@@ -58,4 +58,11 @@ http://www.sitepoint.com/understanding-angulars-apply-digest/
 - Why AngularJS will be huge:
 http://ionicframework.com/blog/angularjs-will-be-huge
 
+- Google Trends:
+http://www.google.com/trends/explore?hl=en-US#q=angularjs,+emberjs,+knockoutjs,+backbonejs
+
 ![feelings about angular](https://pbs.twimg.com/media/BzGKItfIcAAcp8v.png)
+
+- The reason Angular will fail:
+http://okmaya.com/2014/03/12/the-reason-angular-js-will-fail
+(interesting points. not a v. credible source ... *opinion*.)
