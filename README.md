@@ -1,17 +1,20 @@
-learn-angular
+![angular logo](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png)
+
+Learn Angular.js
 =============
 
 Should you learn Angular.js for your client-side / single-page web applications?
 
 ## Pros
 
-If you want *job security*, introduce Angular into
+- If you want *job security*, introduce Angular into
 a client/work project.
-
 
 ## Cons
 
+- there aren't any, right?
 
+### Questions
 
 - Why aren't more companies using AngularJS?
 http://www.quora.com/Why-arent-more-companies-using-AngularJS
@@ -66,3 +69,14 @@ http://www.google.com/trends/explore?hl=en-US#q=angularjs,+emberjs,+knockoutjs,+
 - The reason Angular will fail:
 http://okmaya.com/2014/03/12/the-reason-angular-js-will-fail
 (interesting points. not a v. credible source ... *opinion*.)
+
+- How do Search Engines deal with AngularJS Apps:
+http://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications
+
+- Google's advice for JS-heavy apps: Pre-render HTML
+https://developers.google.com/webmasters/ajax-crawling/docs/html-snapshot
+
+- Use PushState to ensure your app is indexed by Google:
+http://stackoverflow.com/a/23245379/1148249
+
+> What's *Wrong* With Angular: https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
