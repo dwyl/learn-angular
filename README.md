@@ -1,4 +1,4 @@
-![angular logo](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png)
+![angular logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png)
 
 Learn Angular.js
 =============
@@ -17,7 +17,7 @@ a client/work project.
 ### Questions
 
 - Why aren't more companies using AngularJS?
-http://www.quora.com/Why-arent-more-companies-using-AngularJS
+https://www.quora.com/Why-arent-more-companies-using-AngularJS
 - Built with Angular: https://builtwith.angularjs.org/
 - If Angular.js is so great why aren't more *Google*
 projects/websites using it...?
@@ -32,7 +32,7 @@ In his sitepoint article
 "10 reasons why you *shyould* use Angular.js"
 Dmitri Lau describes the "reasons" why you
 should use angular?
-http://www.sitepoint.com/10-reasons-use-angularjs
+https://www.sitepoint.com/10-reasons-use-angularjs
 
 1. MVC done right
 
@@ -56,27 +56,27 @@ http://www.sitepoint.com/10-reasons-use-angularjs
 
 
 - Understanding Angular's $apply() and $digest()
-http://www.sitepoint.com/understanding-angulars-apply-digest/
+https://www.sitepoint.com/understanding-angulars-apply-digest/
 
 - Why AngularJS will be huge:
-http://ionicframework.com/blog/angularjs-will-be-huge
+https://ionicframework.com/blog/angularjs-will-be-huge
 
 - Google Trends:
-http://www.google.com/trends/explore?hl=en-US#q=angularjs,+emberjs,+knockoutjs,+backbonejs
+https://www.google.com/trends/explore?hl=en-US#q=angularjs,+emberjs,+knockoutjs,+backbonejs
 
 ![feelings about angular](https://pbs.twimg.com/media/BzGKItfIcAAcp8v.png)
 
 - The reason Angular will fail:
-http://okmaya.com/2014/03/12/the-reason-angular-js-will-fail
+https://okmaya.com/2014/03/12/the-reason-angular-js-will-fail
 (interesting points. not a v. credible source ... *opinion*.)
 
 - How do Search Engines deal with AngularJS Apps:
-http://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications
+https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications
 
 - Google's advice for JS-heavy apps: Pre-render HTML
 https://developers.google.com/webmasters/ajax-crawling/docs/html-snapshot
 
 - Use PushState to ensure your app is indexed by Google:
-http://stackoverflow.com/a/23245379/1148249
+https://stackoverflow.com/a/23245379/1148249
 
 > What's *Wrong* With Angular: https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
